@@ -18,7 +18,7 @@
 - 💼 Ex-Business Developer at **Aura Developers** — connected business strategy with execution  
 - 🛠 DevOps enthusiast with hands-on experience in **CI/CD, Docker, Nginx, and cloud deployments**  
 - 🧠 Lifelong learner obsessed with **startups, automation, and system design**  
-- 🎓 CS Undergrad at **PUCIT'26**, Lahore, Pakistan  
+- 🎓 IT Undergrad at **PUCIT'26**, Lahore, Pakistan  
 
 ---
 
