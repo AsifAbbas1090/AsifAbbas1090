@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Muhammad Asif Abbas</h1>
-<h3 align="center">🚀 Business Developer | 💻 DevOps Enthusiast | 🌐 Bridging Strategy & Code</h3>
+<h3 align="center">🚀 CEO & Co-founder @ Blue Minds | 💼 Business Developer | 💻 DevOps Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-asif-abbas-5387b1261/" target="_blank">
@@ -14,30 +14,31 @@
 
 ### 👨‍💼 About Me
 
-- 💼 Currently working at **Blue Minds** as a Business Developer  
-- 📈 Formerly at **Aura Developers**, where I helped bridge clients with tech solutions  
-- 🔧 Strong hands-on experience in **DevOps**, project scaling, and automation workflows  
-- 🧠 Constantly learning and improving in **cloud technologies, API integration**, and **product strategy**  
-- 🎓 Undergraduate at **PUCIT'26**, Lahore, Pakistan
+- 👨‍💼 **CEO & Co-founder at [Blue Minds](#)** — building smart digital solutions for modern businesses  
+- 💼 Ex-Business Developer at **Aura Developers** — connected business strategy with execution  
+- 🛠 DevOps enthusiast with hands-on experience in **CI/CD, Docker, Nginx, and cloud deployments**  
+- 🧠 Lifelong learner obsessed with **startups, automation, and system design**  
+- 🎓 CS Undergrad at **PUCIT'26**, Lahore, Pakistan  
 
 ---
 
 ### 🛠️ Tech & Tools I Work With
 
-- **Business & DevOps:** Jira, GitHub Projects, Docker, CI/CD pipelines, Notion  
-- **Cloud & DevOps:** AWS (EC2, S3), GitHub Actions, Nginx, Linux servers  
-- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS  
-- **Backend:** Django, Node.js, REST APIs  
-- **Others:** Stripe, Postman, Git, Firebase
+- **Business & Strategy:** Market research, product design, go-to-market execution  
+- **DevOps & Infra:** GitHub Actions, Docker, AWS, Nginx, Ubuntu, CI/CD  
+- **Frontend:** React, Tailwind CSS, JavaScript  
+- **Backend:** Django, REST APIs, Node.js  
+- **Tools:** Stripe, Postman, Notion, Git, Firebase
 
 ---
 
-### 🚀 My Goals for 2025
+### 🚀 2025 Goals
 
-- Launch a SaaS product that solves real-world problems  
-- Deepen my DevOps skills (Terraform, Kubernetes)  
-- Collaborate on impactful open-source projects  
-- Grow as a **founder-focused developer** who blends business and engineering seamlessly
+- Launch a SaaS product from 0 → MVP → scale  
+- Expand Blue Minds into a tech consultancy powerhouse  
+- Dive deeper into **Kubernetes** and **infrastructure-as-code**  
+- Build and mentor a product-driven team  
+- Stay human-first while going full-stack 🚀
 
 ---
 
@@ -49,11 +50,11 @@
 
 ---
 
-### 🤝 Let's Connect
+### 🤝 Let’s Connect
 
-📬 Feel free to reach out if you want to collaborate, discuss ideas, or just say hi!  
+📬 Reach out if you're into tech, startups, or just want to talk shop.  
 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-asif-abbas-5387b1261/) | 📧 asifabbas1090@gmail.com
 
-> *“Build with clarity. Scale with code. Lead with purpose.”*
+> *“Build with vision. Scale with systems. Lead with empathy.”*
 
 ---
