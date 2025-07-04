@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Muhammad Asif Abbas</h1>
-<h3 align="center">🚀 CEO & Co-founder @ Blue Minds | 💼 Business Developer | 💻 DevOps Enthusiast</h3>
+<h3 align="center">🚀 A Mastermind | 💼 Business Developer | 💻 DevOps Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-asif-abbas-5387b1261/" target="_blank">
