@@ -13,8 +13,6 @@
 ---
 
 ### 👨‍💼 About Me
-
-- 👨‍💼 **CEO & Co-founder at [Blue Minds](#)** — building smart digital solutions for modern businesses  
 - 💼 Ex-Business Developer at **Aura Developers** — connected business strategy with execution  
 - 🛠 DevOps enthusiast with hands-on experience in **CI/CD, Docker, Nginx, and cloud deployments**  
 - 🧠 Lifelong learner obsessed with **startups, automation, and system design**  
