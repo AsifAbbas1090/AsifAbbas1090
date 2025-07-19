@@ -33,7 +33,6 @@
 ### 🚀 2025 Goals
 
 - Launch a SaaS product from 0 → MVP → scale  
-- Expand Blue Minds into a tech consultancy powerhouse  
 - Dive deeper into **Kubernetes** and **infrastructure-as-code**  
 - Build and mentor a product-driven team  
 - Stay human-first while going full-stack 🚀
