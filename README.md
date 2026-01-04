@@ -82,16 +82,7 @@ const asif = {
 
 ---
 
-### 📊 GITHUB STATS
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AsifAbbas1090&show_icons=true&theme=radical" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsifAbbas1090&layout=compact&theme=radical" />
-</div>
-
----
-
-### 🌟 2025 GOALS
+### 🌟 2026 GOALS
 
 ```yaml
 Q1: Launch a SaaS product from 0 → MVP
